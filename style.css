@@ -25,6 +25,7 @@ body{
 
 .imagem-Card{
    border-radius: 20px 20px 0px 0px;
+   box-sizing: border-box;
 }
 
 .texto{
